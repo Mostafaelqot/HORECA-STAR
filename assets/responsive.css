@@ -1,0 +1,25 @@
+@media only screen and (max-width: 768px) {
+  .nav_bar .container {
+    display: none;
+  }
+  .nav_bar i {
+    display: block;
+  }
+
+  .logo {
+    width: 39%;
+  }
+  .hero_card {
+    width: 26%;
+  }
+
+  .about_card {
+    width: 51%;
+  }
+.newsletter p{
+    font-size: 22px;
+}
+.customer_card {
+    width: 91%;}
+
+}
