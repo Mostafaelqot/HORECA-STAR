@@ -1,0 +1,125 @@
+@media only screen and (max-width: 768px) {
+  * {
+    font-size: 14px;
+  }
+
+  P {
+    padding-bottom: 25px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 25px;
+  }
+
+  h5,
+  h4,
+  h3 {
+    font-size: 20px;
+  }
+  button {
+    padding: 15px;
+  }
+
+  .nav_bar .container {
+    display: none;
+  }
+  .nav_bar i {
+    display: block;
+  }
+  .logo {
+    width: 41%;
+  }
+  .hero_card {
+    width: 90%;
+  }
+  .hero_figure {
+    width: 70%;
+  }
+  .hero_container {
+    background-image: url(../assets/Optimized-home-bg.jpg),
+      linear-gradient(180deg, rgba(255, 255, 255, 0.6), rgba(0, 0, 0, 0.9));
+    background-attachment: fixed;
+    background-position: center;
+    padding-top: 100px;
+  }
+
+  .line::after {
+    width: 90%;
+    left: 20px;
+  }
+
+  .about_card {
+    width: 90%;
+  }
+
+  .newsletter p {
+    font-size: 18px;
+    width: 71%;
+  }
+  .newsletter_buttons {
+    justify-content: center;
+  }
+  .newsletter_buttons input {
+    width: 275px;
+  }
+
+  .customer_article {
+    width: 95%;
+    order: 1;
+  }
+  .customer_img {
+    margin-bottom: 20px;
+  }
+
+  .brands_figure {
+    margin: 15px;
+    width: 30%;
+  }
+
+  .follow_container i {
+    margin: 7px;
+
+  }
+
+.footer_container{
+  flex-wrap: nowrap;
+}
+
+  .footor_logo {
+    width: 50%;
+    flex-wrap: nowrap;
+    
+  }
+  .footer_text{
+    width: 54%;
+    font-size: 10px;
+    left: 2px;
+    bottom: 48px;
+  }
+  .footer{
+        height: 148px;
+        padding-top: 0%;
+  }
+.barcts_img{
+  width: 100%;
+}
+.footer h3 {
+  margin-bottom: 3%;
+  font-size: 10px;
+}
+
+
+
+
+
+
+.contact_us {
+
+    justify-content: center;
+    align-items: center;
+  width: 35%;
+
+}
+}
