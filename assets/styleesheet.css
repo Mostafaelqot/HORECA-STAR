@@ -116,7 +116,7 @@ h2 {
 .nav_bar .container {
   width: 100%;
 }
-.nav_bar i{
+.main_header i{
     display: none;
 }
 /* hero section */
@@ -361,7 +361,7 @@ display: block;
   text-align: center;
   color: rgb(135, 167, 7);
   position: relative;
-  left: 20px;
+  left: 60px;
 bottom:100px ;
-  width: 51%;
+  width: 23%;
 }
